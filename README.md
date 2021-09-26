@@ -23,10 +23,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat-square&logo=visual-studio-code&logoColor=007ACC)  
  
  
-[![Repos Badge](https://badges.pufler.dev/repos/Tchoow)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/Tchoow)](https://badges.pufler.dev)
-[![Visits Badge](https://badges.pufler.dev/visits/Tchoow/Tchoow)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Tchoow)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/XeraFiu-YTB)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/XeraFiu-YTB)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/XeraFiu-YTB/XeraFiu-YTB)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/XeraFiu-YTB)](https://badges.pufler.dev)
 <p align=center>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=XeraFiu-YTB&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
