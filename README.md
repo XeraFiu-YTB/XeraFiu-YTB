@@ -27,6 +27,12 @@
 [![Years Badge](https://badges.pufler.dev/years/XeraFiu-YTB)](https://badges.pufler.dev)
 [![Visits Badge](https://badges.pufler.dev/visits/XeraFiu-YTB/XeraFiu-YTB)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/XeraFiu-YTB)](https://badges.pufler.dev)
+
+
+<p align=center>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XeraFiu-YTB&show_icons=true&theme=radical&border_color=54bdc9&title_color=54bdc9&icon_color=ac498d&locale=fr&border_radius=20" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeraFiu-YTB&theme=radical&border_color=54bdc9&layout=compact&title_color=54bdc9&locale=fr&border_radius=20"
+</p>
 <p align=center>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=XeraFiu-YTB&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
